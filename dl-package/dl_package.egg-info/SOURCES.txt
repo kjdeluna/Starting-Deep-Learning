@@ -1,0 +1,13 @@
+README.rst
+setup.py
+dl_package/Mammals.ipynb
+dl_package/Reuters.ipynb
+dl_package/__init__.py
+dl_package/brain_body.txt
+dl_package.egg-info/PKG-INFO
+dl_package.egg-info/SOURCES.txt
+dl_package.egg-info/dependency_links.txt
+dl_package.egg-info/requires.txt
+dl_package.egg-info/top_level.txt
+dl_package/.ipynb_checkpoints/Mammals-checkpoint.ipynb
+dl_package/.ipynb_checkpoints/Reuters-checkpoint.ipynb
